@@ -1,11 +1,11 @@
 Items:
  Active:
-  commissionitems [оепебедемн]
-  shields [оепебедемн]
+  commissionitems [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  shields [п÷п∙п═п∙п▓п∙п■п∙п²п·]
   weapons:
    melee:
-    axe [оепебедемн]
-    broadsword [оепебедемн]
+    axe [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+    broadsword [п÷п∙п═п∙п▓п∙п■п∙п²п·]
     dagger
     gunspear
     hammer
@@ -14,18 +14,18 @@ Items:
    staff
    whip
  Armors: 
-  Commissionitems [оепебедемн]
-  cosmetic: [оепебедемн]
-   items\armors\Commissionitems\sgflatcap\ [оепебедемн]
-   items\armors\Commissionitems\sgquatermaster\ [оепебедемн]
-   items\armors\cosmetic\sgbackpack\ [оепебедемн]
-   items\armors\cosmetic\sgbasicspacehelmet\ [оепебедемн]
-   items\armors\cosmetic\sgmedichelmet\ [оепебедемн]
-   items\armors\cosmetic\sgflathelmet\ [оепебедемн]
-   items\armors\cosmetic\sgmechpilothelmet\ [оепебедемн]
-   items\armors\cosmetic\sgmedichelmet\ [оепебедемн]
-   items\armors\cosmetic\sgspacehelmet\ [оепебедемн]
-   items\armors\cosmetic\sgbackpack\ [оепебедемн]
+  Commissionitems [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  cosmetic: [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\Commissionitems\sgflatcap\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\Commissionitems\sgquatermaster\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\cosmetic\sgbackpack\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\cosmetic\sgbasicspacehelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\cosmetic\sgmedichelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\cosmetic\sgflathelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\cosmetic\sgmechpilothelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\cosmetic\sgmedichelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\cosmetic\sgspacehelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+   items\armors\cosmetic\sgbackpack\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
   ironwatch
   shellarmour
   shellarmourengineer
@@ -33,41 +33,41 @@ Items:
   shellheavy
  Generic:
  Mechparts:                                 
-  items\mechparts\arm\ [оепебедемн]    
-  items\mechparts\body\ [оепебедемн]    
-  items\mechparts\boosters\ [оепебедемн]
-  items\mechparts\horn\ [оепебедемн]    
-  items\mechparts\legs\ [оепебедемн]    
+  items\mechparts\arm\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]    
+  items\mechparts\body\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]    
+  items\mechparts\boosters\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\mechparts\horn\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]    
+  items\mechparts\legs\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]    
  
  Cosmetic:
-  items\armors\Commissionitems\sgflatcap\ [оепебедемн]
-  items\armors\Commissionitems\sgquatermaster\ [оепебедемн]
-  items\armors\cosmetic\sgbackpack\ [оепебедемн]
-  items\armors\cosmetic\sgbasicspacehelmet\ [оепебедемн]
-  items\armors\cosmetic\sgmedichelmet\ [оепебедемн]
-  items\armors\cosmetic\sgflathelmet\ [оепебедемн]
-  items\armors\cosmetic\sgmechpilothelmet\ [оепебедемн]
-  items\armors\cosmetic\sgmedichelmet\ [оепебедемн]
-  items\armors\cosmetic\sgspacehelmet\ [оепебедемн]
-  items\armors\cosmetic\sgbackpack\ [оепебедемн]
+  items\armors\Commissionitems\sgflatcap\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\Commissionitems\sgquatermaster\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\cosmetic\sgbackpack\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\cosmetic\sgbasicspacehelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\cosmetic\sgmedichelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\cosmetic\sgflathelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\cosmetic\sgmechpilothelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\cosmetic\sgmedichelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\cosmetic\sgspacehelmet\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  items\armors\cosmetic\sgbackpack\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
  Throwables:
 Objects:
-  objects\missionitems\sgdroppodspawner\ [оепебедемн]
-  objects\sgbasedteleporter\ [оепебедемн]
-  objects\sgbasetturret\  [оепебедемн]
-  objects\sgdonatorshop\  [оепебедемн]
-  objects\guardmart\  [оепебедемн]
-  objects\decorations\sghelmetdeco\  [оепебедемн]
-  objects\decorations\sgemptyrack\  [оепебедемн]
-  objects\decorations\sglauncherrack\  [оепебедемн]
-  objects\decorations\sgriflerack\  [оепебедемн]
-  objects\decorations\sgshippingcontainer\ [оепебедемн]
-  objects\decorations\sgturretstand  [оепебедемн]
-  objects\claireshop\ [оепебедемн]
-  objects\questgivers\Andros.object [оепебедемн]
-  objects\questgivers\arenaman\  [оепебедемн]
-  objects\questgivers\atmos\  [оепебедемн]
-  objects\sghubarenateleporter\  [оепебедемн]
-  objects\sghubteleporter\  [оепебедемн]
-  objects\sginfobooth\  [оепебедемн]
+  objects\missionitems\sgdroppodspawner\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\sgbasedteleporter\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\sgbasetturret\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\sgdonatorshop\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\guardmart\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\decorations\sghelmetdeco\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\decorations\sgemptyrack\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\decorations\sglauncherrack\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\decorations\sgriflerack\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\decorations\sgshippingcontainer\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\decorations\sgturretstand  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\claireshop\ [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\questgivers\Andros.object [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\questgivers\arenaman\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\questgivers\atmos\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\sghubarenateleporter\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\sghubteleporter\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
+  objects\sginfobooth\  [п÷п∙п═п∙п▓п∙п■п∙п²п·]
  
