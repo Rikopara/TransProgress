@@ -6,7 +6,7 @@ Items:
    melee:
     axe [ПЕРЕВЕДЕНО]
     broadsword [ПЕРЕВЕДЕНО]
-    dagger
+    dagger [ПЕРЕВЕДЕНО]
     gunspear
     hammer
     spear
