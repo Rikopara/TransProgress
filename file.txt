@@ -8,7 +8,7 @@ Items:
     broadsword [ПЕРЕВЕДЕНО]
     dagger [ПЕРЕВЕДЕНО]
     gunspear [ПЕРЕВЕДЕНО]
-    hammer
+    hammer [ПЕРЕВЕДЕНО]
     spear
    ranged
    staff
