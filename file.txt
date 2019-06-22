@@ -7,7 +7,7 @@ Items:
     axe [ПЕРЕВЕДЕНО]
     broadsword [ПЕРЕВЕДЕНО]
     dagger [ПЕРЕВЕДЕНО]
-    gunspear
+    gunspear [ПЕРЕВЕДЕНО]
     hammer
     spear
    ranged
