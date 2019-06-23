@@ -11,6 +11,11 @@ Items:
     hammer [ПЕРЕВЕДЕНО]
     spear [ПЕРЕВЕДЕНО]
    ranged
+   barragelauncher.activeitem [ПЕРЕВЕДЕНО]
+   shellguardbfg.activeitem [ПЕРЕВЕДЕНО]
+   titanlauncher.activeitem [ПЕРЕВЕДЕНО]
+   sgbossspear.activeitem [ПЕРЕВЕДЕНО]
+   sgburstpear.activeitem [ПЕРЕВЕДЕНО]
    staff
    whip
  Armors: 
