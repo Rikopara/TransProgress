@@ -3,13 +3,13 @@ Items:
   commissionitems [ПЕРЕВЕДЕНО]
   shields [ПЕРЕВЕДЕНО]
   weapons:
-   melee:
+   melee: [ПЕРЕВЕДЕНО]
     axe [ПЕРЕВЕДЕНО]
     broadsword [ПЕРЕВЕДЕНО]
     dagger [ПЕРЕВЕДЕНО]
     gunspear [ПЕРЕВЕДЕНО]
     hammer [ПЕРЕВЕДЕНО]
-    spear
+    spear [ПЕРЕВЕДЕНО]
    ranged
    staff
    whip
