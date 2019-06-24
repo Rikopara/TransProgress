@@ -21,7 +21,8 @@ Items:
     shellguardAMrifle.activeitem [ПЕРЕВЕДЕНО]
     shellguardAMrifleexplosive.activeitem [ПЕРЕВЕДЕНО]
     shellguardbombard.activeitem [ПЕРЕВЕДЕНО]
-    
+    shellguardbuzzer.activeitem [ПЕРЕВЕДЕНО]
+    shellguardclawbase.activeitem [ПЕРЕВЕДЕНО]
    staff
    whip
  Armors: 
